@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         OTC Product Selection FIXED 10.09.26
+// @name         OTC Product Selection
 // @namespace    http://tampermonkey.net/
-// @version      3.4
+// @version      3.5
 // @description  Performs a REAL selection of shortcuts strictly inside Product/Charge/Code dropdowns.
 // @author       Assistant
 // @match        *://*.modmedapp.com/*
