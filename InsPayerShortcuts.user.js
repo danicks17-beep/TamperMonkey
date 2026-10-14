@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Insurance Payer Shortcuts
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Grouped Insurance Shortcuts with Headers
 // @author       Assistant
 // @match        https://usfas.modmedapp.com/ema/web/practice/staff/*
@@ -22,6 +22,7 @@
                 { label: "Cigna", search: "Cigna", targetIndex: 4},
                 { label: "Humana", search: "Humana Health Plan" },
                 { label: "Wellcare", search: "Wellcare of NC" },
+                { label: "Healthspring", search: "Healthspring" },                
 
             ]
         },
